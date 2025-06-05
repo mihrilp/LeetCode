@@ -1,4 +1,4 @@
-# NeetCode 150 – Algorithm Practice in JavaScript
+## NeetCode 150 – Algorithm Practice in JavaScript
 
 This repo contains my NeetCode 150 solutions written in JavaScript.  
 Each solution includes problem details, category, approach, and complexity notes.
