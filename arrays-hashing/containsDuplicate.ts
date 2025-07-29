@@ -15,6 +15,9 @@ Given an integer array `nums`, return `true` if any value appears at least twice
   - If the current number already exists in the Set, return true.  
   - Otherwise, add the number to the Set.  
 - If the loop completes without finding duplicates, return false.
+
+📝 Notes / What I Learned:  
+- Using a Set allows for O(1) average time complexity for lookups, which is much faster compared to array methods like `includes` that run in O(n) time.
 */
 
 function containsDuplicate(nums: number[]): boolean {

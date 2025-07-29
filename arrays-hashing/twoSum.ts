@@ -14,6 +14,9 @@ Given an array of integers and a target, return indices of the two numbers such 
 - Check if complement exists in map.
 - If yes, return indices.
 - Else, store current number and index in map.
+
+📝 Notes / What I Learned:  
+- Using `forEach` does not allow early return from the function; `return` only exits the current iteration.
 */
 
 function twoSum(nums: number[], target: number): number[] {
