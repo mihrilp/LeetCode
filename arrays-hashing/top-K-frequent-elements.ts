@@ -1,7 +1,7 @@
 /*
 🧠 Problem: Top K Frequent Elements
 📦 Topic: Arrays & Hashing
-📊 Difficulty: Easy
+📊 Difficulty: Medium
 🛠️ Approach: Sorting with HashMap
 ⏱️ Time: O(nlogn)
 📦 Space: O(n)
