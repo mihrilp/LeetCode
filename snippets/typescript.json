@@ -1,0 +1,25 @@
+{
+  "Algorithm Template": {
+    "prefix": "algoTemplate",
+    "body": [
+      "/*",
+      "🧠 Problem: $1",
+      "📦 Topic: $2",
+      "📊 Difficulty: $3",
+      "🛠️ Approach: $4",
+      "⏱️ Time: $5",
+      "📦 Space: $6",
+      "",
+      "📝 Description:",
+      "$7",
+      "",
+      "💡 Approach:",
+      "$8",
+      "",
+      "📝 Notes / What I Learned:",
+      "$9",
+      "*/"
+    ],
+    "description": "Template for algorithm solution"
+  }
+}
